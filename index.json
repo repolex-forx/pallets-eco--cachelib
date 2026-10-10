@@ -1,0 +1,11 @@
+{
+  "org": "pallets-eco",
+  "repo": "cachelib",
+  "versions": [
+    {
+      "commit": "34140b8e5485fac142dca95eba9341aaea3a9070",
+      "tag": "",
+      "parsed_at": "2026-10-10T22:05:09.795282+00:00"
+    }
+  ]
+}
